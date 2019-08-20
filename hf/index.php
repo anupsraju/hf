@@ -16,13 +16,13 @@
             		The following url will generate base64_encode token.
             	</p>
             	<p>
-            		<a href="http://localhost/healthfirst/controller/getToken.php?action=getToken&email=jose@example.com">http://localhost/healthfirst/controller/getToken.php?action=getToken&email=jose@example.com</a>
+            		<a href="http://localhost/hf/controller/getToken.php?action=getToken&email=jose@example.com">http://localhost/hf/controller/getToken.php?action=getToken&email=jose@example.com</a>
             	</p>
             	<p>
             		Test cases are written in test directory. Following url will return test results.
             	</p>
             	<p>
-            		<a href="http://localhost/healthfirst/test/TokenTest.php">http://localhost/healthfirst/test/TokenTest.php</a>
+            		<a href="http://localhost/hf/test/TokenTest.php">http://localhost/hf/test/TokenTest.php</a>
             	</p>
             </section>
         </div>
